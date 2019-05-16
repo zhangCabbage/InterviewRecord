@@ -24,12 +24,19 @@
 
 每个目录为一个行业的各公司的面试经验。
 
-education - 教育
-finance - 金融
-trip - 出行
+- - -
 
 tycoon - 行业巨头
+
 unicorn - 独角兽
+
+- - -
+
+education - 教育
+
+finance - 金融
+
+trip - 出行
 
 
 
